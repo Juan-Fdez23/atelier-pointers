@@ -1,3 +1,4 @@
+// Punto #1 (Matriz Dinamica + operaciones por punteros)
 #include <iostream>
 
 void plusfilas(int ** array2d, int n, int m){
